@@ -1,0 +1,73 @@
+ body {
+ 	font-family: 'Gentium Basic', serif;
+ 	color: black;
+
+ }
+ #header-nav {
+	background-color: #CCC4C0;
+    border-radius: 0;
+	border: 0;
+
+}
+
+#logo {
+	font-size: 36px;
+	font-weight: 700;
+	text-shadow: 1px 0 #F57B45;
+	color: black;
+	
+}
+
+
+.navbar-collapse {
+    font-family: 'Gentium Basic', serif;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 0px;
+	border: none;
+
+}
+
+ 
+.navbar-nav {
+	background-color: #F0CEC7;
+	margin: 0px;
+	border: 1px solid black;
+	padding: 0px;
+
+}
+
+   li:hover {
+	background-color: #CCC4C0;
+}
+
+ 
+ .libord { 
+
+   border-bottom: 1px solid black;
+
+ }
+
+ .h1 {
+ 	font-weight: 700;
+ 	margin-bottom: 20px;
+ 	color: #87422B;
+ 	text-shadow: 1px 0 #F57B45;
+ }
+
+.row {
+	background-color: #CCC4C0;
+	font-size: 20px;
+	line-height: 1.2;
+	margin: 2px;
+	padding: 5px;
+}
+
+.col-sm-12 {
+	width: 100%;
+}
+
+.h2 {
+	font-weight: 700;
+}
+  
